@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://i.postimg.cc/MXkV3zTh/Chat-GPT-Image-May-18-2025-12-20-12-PM.png"  />
-</div>
+<h1 align="center">Welcome, I'm Isaac and this is my GitHub space!</h1>
 
 ###
 
@@ -18,15 +16,11 @@
 
 ###
 
-<h1 align="center">Welcome, I'm Isaac and this is my GitHub space!</h1>
+<h3 align="left">👨‍💻   About Me</h3>
 
 ###
 
-<h3 align="left">👨‍💻  About Me</h3>
-
-###
-
-<p align="left">I’m currently pursuing a degree in Computer Science at Arizona State University, with a minor in Business.  I’m developing my skills in programming and finance, with a growing interest in quantitative analysis and data-driven tools in financial markets.</p>
+<p align="left">I’m currently pursuing a degree in Computer Science at Arizona State University, with a minor in Business. I’m developing my skills in programming and finance, with a growing interest in quantitative analysis and data-driven tools in financial markets.</p>
 
 ###
 
@@ -39,9 +33,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />

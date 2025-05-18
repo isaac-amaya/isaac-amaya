@@ -2,6 +2,10 @@
 
 ###
 
+<h3 align="center">👨‍💻   About Me</h3>
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/isaacgaa/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -10,25 +14,15 @@
 
 ###
 
+<p align="center">I’m currently pursuing a degree in Computer Science at Arizona State University, with a minor in Business. I’m developing my skills in programming and finance, with a growing interest in quantitative analysis and data-driven tools in financial markets.</p>
+
+###
+
+<h3 align="center">🛠 Language and tools</h3>
+
+###
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaac-amaya.isaac-amaya&"  />
-</div>
-
-###
-
-<h3 align="left">👨‍💻   About Me</h3>
-
-###
-
-<p align="left">I’m currently pursuing a degree in Computer Science at Arizona State University, with a minor in Business. I’m developing my skills in programming and finance, with a growing interest in quantitative analysis and data-driven tools in financial markets.</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
@@ -46,7 +40,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats</h3>
 
 ###
 
